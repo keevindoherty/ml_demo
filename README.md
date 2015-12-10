@@ -1,4 +1,4 @@
-# ml_demo
+# Language Classification Demo
 Some language classification with Python and scikit-learn
 
 ## Running the Demo
@@ -22,3 +22,5 @@ to get most of them, and use pip to get scikit-learn:
 and seaborn:
 
 `pip install seaborn`
+
+You'll want to change the directories being used in the code and you'll need to get some data to learn from, I used Wikipedia dumps, but you can use anything you want. The parsers I wrote were specific to the documents I was using, however, so you'll need parsers specific to your content (or not if your documents are already separated).
