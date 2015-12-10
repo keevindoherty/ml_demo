@@ -12,8 +12,13 @@ You can play around with the training code by first installing the dependencies:
 * seaborn
 
 On Linux you can run:
+
 `sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose`
+
 to get most of them, and use pip to get scikit-learn:
+
 `pip install -U scikit-learn`
+
 and seaborn:
+
 `pip install seaborn`
