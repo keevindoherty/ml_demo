@@ -1,5 +1,4 @@
 import re
-from lxml import etree
 import codecs
 
 def parse_en(corpus):
